@@ -42,7 +42,7 @@ def handle_message(event):
     ss = "shit"
     line_bot_api.reply_message(
         event.reply_token,
-        TextSendMessage(text=ss))
+        TextSendMessage(text=s+ss))
 
 
 if __name__ == "__main__":
