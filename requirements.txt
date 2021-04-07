@@ -1,3 +1,7 @@
 line-bot-sdk
+<<<<<<< HEAD
 gunicorn
 flask
+=======
+gunicorn
+>>>>>>> origin/main
